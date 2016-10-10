@@ -1,0 +1,9 @@
+---
+title: "React Quiz"
+type: "challenge"
+description: "Build a quiz application in React"
+tags: "javascript, react, rails"
+ignore:
+- "node_modules/"
+- "react-questions.md"
+- "app/assets/javascripts/bundle.js"
